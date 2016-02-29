@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/marathonPac/marathonctl/check"
+	"github.com/layneYoo/mCtl/check"
 )
 
 // ping (todo ping all hosts)

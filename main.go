@@ -8,8 +8,8 @@ import (
 	"fmt"
 	//"os"
 
-	"github.com/marathonPac/marathonctl/check"
-	mctl "github.com/marathonPac/marathonctl/marathon"
+	"github.com/layneYoo/mCtl/check"
+	mctl "github.com/layneYoo/mCtl/marathon"
 )
 
 /*

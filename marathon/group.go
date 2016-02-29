@@ -11,7 +11,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/marathonPac/marathonctl/check"
+	"github.com/layneYoo/mCtl/check"
 )
 
 type GroupList struct {

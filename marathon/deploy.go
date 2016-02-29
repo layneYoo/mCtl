@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/marathonPac/marathonctl/check"
+	"github.com/layneYoo/mCtl/check"
 )
 
 // deploy [actions]

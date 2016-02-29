@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/marathonPac/marathonctl/check"
+	"github.com/layneYoo/mCtl/check"
 )
 
 type AppList struct {

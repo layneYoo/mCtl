@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/marathonPac/marathonctl/check"
+	"github.com/layneYoo/mCtl/check"
 )
 
 type Action interface {
